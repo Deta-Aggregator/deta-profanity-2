@@ -6,7 +6,7 @@ Profanity is a high performance (probably the fastest!) vanity address generator
 
 # Important to know
 
-A previous version of this project has a known critical issue due to a bad source of randomness. The issue enables attackers to recover private key from public key: https://blog.1inch.io/a-vulnerability-disclosed-in-profanity-an-ethereum-vanity-address-tool-68ed7455fc8c
+A previous version of this project has a known critical issue due to a bad source of randomness. The issue enables attackers to recover private key from public key: https://blog.deta.io/a-vulnerability-disclosed-in-profanity-an-ethereum-vanity-address-tool-68ed7455fc8c
 
 This project "profanity2" was forked from the original project and modified to guarantee **safety by design**. This means source code of this project do not require any audits, but still guarantee safe usage.
 
@@ -99,7 +99,7 @@ usage: ./profanity2 [OPTIONS]
     computing power from GPUs using OpenCL.
 
   Forked "profanity2":
-    Author: 1inch Network <info@1inch.io>
+    Author: deta Network <info@deta.io>
     Disclaimer:
       This project "profanity2" was forked from the original project and
       modified to guarantee "SAFETY BY DESIGN". This means source code of

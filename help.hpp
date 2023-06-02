@@ -60,7 +60,7 @@ usage: ./profanity2 [OPTIONS]
     computing power from GPUs using OpenCL.
 
   Forked "profanity2":
-    Author: 1inch Network <info@1inch.io>
+    Author: deta Network <info@deta.io>
     Disclaimer:
       This project "profanity2" was forked from the original project and
       modified to guarantee "SAFETY BY DESIGN". This means source code of
